@@ -1,7 +1,7 @@
 # WikiPageRanking
 ##  Hadoop example - Page Ranking Wikipedia
 
-This project is a sample how to work with Hadoop. ut containes 3 jobs to parse, calculate and order the page ranking
+This project is a sample how to work with Hadoop. it containes 3 jobs to parse, calculate and order the page ranking
 of a Wikipedia dump.
 
 Requires:
